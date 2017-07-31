@@ -1,0 +1,1 @@
+SelectionSort sortedSelectionSort randomSelectionSort allzerosShortBubble sortedShortBubble randomShortBubble allzerosQuickSort sortedQuickSort randomQuickSort allzerosMergeSort sortedMergeSort randomMergeSort allzerosHeapSort sortedHeapSort randomHeapSort allzerosInsertionSort sortedInsertionSort randomInsertionSort allzerosQuit

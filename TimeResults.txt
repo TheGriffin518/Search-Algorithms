@@ -1,0 +1,90 @@
+### SelectionSort ###
+	File Type: sorted
+	Time taken (Nano Seconds): 2093390
+	Time Taken (Seconds): 0.00209339
+
+### SelectionSort ###
+	File Type: random
+	Time taken (Nano Seconds): 2141537
+	Time Taken (Seconds): 0.00214154
+
+### SelectionSort ###
+	File Type: allzeros
+	Time taken (Nano Seconds): 3653
+	Time Taken (Seconds): 3.653e-06
+
+### ShortBubble ###
+	File Type: sorted
+	Time taken (Nano Seconds): 2178468
+	Time Taken (Seconds): 0.00217847
+
+### ShortBubble ###
+	File Type: random
+	Time taken (Nano Seconds): 5768535
+	Time Taken (Seconds): 0.00576854
+
+### ShortBubble ###
+	File Type: allzeros
+	Time taken (Nano Seconds): 7489
+	Time Taken (Seconds): 7.489e-06
+
+### QuickSort ###
+	File Type: sorted
+	Time taken (Nano Seconds): 779616
+	Time Taken (Seconds): 0.000779616
+
+### QuickSort ###
+	File Type: random
+	Time taken (Nano Seconds): 133218
+	Time Taken (Seconds): 0.000133218
+
+### QuickSort ###
+	File Type: allzeros
+	Time taken (Nano Seconds): 3006
+	Time Taken (Seconds): 3.006e-06
+
+### MergeSort ###
+	File Type: sorted
+	Time taken (Nano Seconds): 128616
+	Time Taken (Seconds): 0.000128616
+
+### MergeSort ###
+	File Type: random
+	Time taken (Nano Seconds): 172759
+	Time Taken (Seconds): 0.000172759
+
+### MergeSort ###
+	File Type: allzeros
+	Time taken (Nano Seconds): 2854
+	Time Taken (Seconds): 2.854e-06
+
+### HeapSort ###
+	File Type: sorted
+	Time taken (Nano Seconds): 223462
+	Time Taken (Seconds): 0.000223462
+
+### HeapSort ###
+	File Type: random
+	Time taken (Nano Seconds): 252202
+	Time Taken (Seconds): 0.000252202
+
+### HeapSort ###
+	File Type: allzeros
+	Time taken (Nano Seconds): 2881
+	Time Taken (Seconds): 2.881e-06
+
+### InsertionSort ###
+	File Type: sorted
+	Time taken (Nano Seconds): 13464
+	Time Taken (Seconds): 1.3464e-05
+
+### InsertionSort ###
+	File Type: random
+	Time taken (Nano Seconds): 2905560
+	Time Taken (Seconds): 0.00290556
+
+### InsertionSort ###
+	File Type: allzeros
+	Time taken (Nano Seconds): 3917
+	Time Taken (Seconds): 3.917e-06
+

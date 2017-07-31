@@ -1,0 +1,91 @@
+Author: James Griffin
+Assignment: Project 3 Answers
+Date: 12/4/2016
+
+
+The timing results are stored in the 'TimeResults.txt' file.
+The answers given for the following sections are answered using the
+file that I ran on nike. I am including to for your viewing. 
+
+
+***** SECTION I *****
+
+1. Selection Sort
+   a. 0.00209339 seconds
+   b. 0.00214154 seconds
+   c. 0.000003653 seconds
+   d. The allzeros one, because the algo didn't have to do many calls
+      	  in order to sort the input.
+   e. The random one, because the algo had to make comparisons with
+      	  almost every element.
+
+2. Short Bubble Sort
+   a. 0.00217847 seconds
+   b. 0.00576854 seconds
+   c. 0.000007589 seconds
+   d. The allzeros one, because the algo didn't have to make that many 
+      	  comparisons.
+   e. The random one, because the algo had to make more comparisons as
+      	  it sorted the input.
+
+3. Insertion Sort
+   a. 0.000013464 seconds
+   b. 0.00290556 seconds
+   c. 0.000003917 seconds
+   d. The allzeros one, because the algo made the least amount of 
+      	  comparisons while sorting the algo.
+   e. The random one, because the algo ended up making more comparisons
+      	  as it sorted the input.
+
+4. Merge Sort
+   a. 0.000128616 seconds
+   b. 0.000172759 seconds
+   c. 0.000002854 seconds
+   d. The allzeros one, because the algo made the least amount of 
+      	  comparisons while sorting the algo.
+   e. The random one, because the algo ended up making more comparisons
+      	  as it sorted the input.
+
+5. Quick Sort
+   a. 0.000779616 seconds
+   b. 0.000133218 seconds
+   c. 0.000003006 seconds
+   d. The allzeros one, because the algo made the least amount of 
+      	  comparisons while sorting the algo.
+   e. The sorted one, because the algo ended up making more comparisons
+      	  as it sorted the input.
+
+6. Heap Sort
+   a. 0.000223462 seconds
+   b. 0.000252202 seconds
+   c. 0.000002881 seconds
+   d. The allzeros one, because the algo made the least amount of 
+      	  comparisons while sorting the algo.
+   e. The random one, because the algo ended up making more comparisons
+      	  as it sorted the input.
+   
+***** SECTION II *****
+
+1. QuickSort, MergeSort, and HeapSort should have had the fastest execution
+   times. This is due to them being linearthimic in their average case big-0
+   notation. However HeapSort had the fastest time.
+
+2. The big-0 notation for those sorts were O(n log n).
+
+***** SECTION III *****
+
+1. QuickSort, MergeSort, and HeapSort should have had the fastest executions times
+   because of their big-0 notation. A sorted file is the best case scenario for 
+   these sorts and that led to them having a linearithmic big-0 notation. 
+2. SelectionSort should have the worse execution time with a sorted file. That is
+   best case scenario for that sort, but it would produce a big-0 notation of
+   O(n^2) or quadratic. 
+
+### CONCLUSION ###
+
+    In conclusion, this program led to showing that the sorts that were expected
+    to produce the fastest execution times did. Even in the case of worst case 
+    and best case scenarios. Even when using in the case of average case scenarios, 
+    the sort algorithms with the best big-0 notation still did the best overall.
+    This program just furthered proved which algorithms were the fastest for their
+    applications and which ones were the slowest. 
