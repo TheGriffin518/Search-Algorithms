@@ -6,12 +6,12 @@ const int SIZE = 10000;
 
 typedef int ItemType;
 void Swap(ItemType& item1, ItemType& item2);
-#include "bubble_sort.h"
-#include "heap_sort.h"
-#include "insert_sort.h"
-#include "merge_sort.h"
-#include "select_sort.h"
-#include "quick_sort.h"
+#include "HeaderFiles/bubble_sort.h"
+#include "HeaderFiles/heap_sort.h"
+#include "HeaderFiles/insert_sort.h"
+#include "HeaderFiles/merge_sort.h"
+#include "HeaderFiles/select_sort.h"
+#include "HeaderFiles/quick_sort.h"
 
 using namespace std;
 using ns = chrono::nanoseconds;
